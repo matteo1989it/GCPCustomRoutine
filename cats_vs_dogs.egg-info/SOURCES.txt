@@ -1,0 +1,6 @@
+prediction.py
+setup.py
+cats_vs_dogs.egg-info/PKG-INFO
+cats_vs_dogs.egg-info/SOURCES.txt
+cats_vs_dogs.egg-info/dependency_links.txt
+cats_vs_dogs.egg-info/top_level.txt
